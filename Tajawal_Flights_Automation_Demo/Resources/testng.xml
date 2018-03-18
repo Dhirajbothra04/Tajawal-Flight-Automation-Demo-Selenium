@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Assignment Demo Suite">
+	<test name="Verify Search Parameters and Filling Customer Details">
+		<classes>
+			<class
+				name="com.Tajawal.Flights.Tajawal_Flights_Automation_Demo.VerifySearchParamsAndFillCustomerInfo" />
+		</classes>
+	</test>
+
+	<test name="Sort low to high ">
+		<classes>
+			<class
+				name="com.Tajawal.Flights.Tajawal_Flights_Automation_Demo.VerifySortingOnListing" />
+		</classes>
+	</test>
+
+
+</suite>
